@@ -254,15 +254,18 @@ section {
   margin-bottom: 3rem;
 }
 
+.hero-contact-line {
+  font-size: 1.05rem;
+}
+
 .hero-email {
-  display: inline-block;
+  display: inline;
   font-family: 'Playfair Display', serif;
-  font-size: 1.1rem;
+  font-size: 1.05rem;
   font-style: italic;
   color: var(--terracotta);
   border-bottom: 1px solid currentColor;
   padding-bottom: 2px;
-  width: fit-content;
   transition: opacity 0.2s;
 }
 
